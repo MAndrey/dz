@@ -1,0 +1,28 @@
+user:
+  isAdmin: true
+  name: MAndrei
+  age: 45
+  position: administrator
+  placeOfResidence:
+      country: RU
+      city: SPB
+      streat: Nevskiy
+      number: 12
+      apartmentNumber: 3
+  skills:
+      - name: programming
+        level: 5
+        description: |
+          Java,javascript,SQL
+      - name: administrator
+        level: 5
+        description: |
+          windows,linux
+  pets:
+      - name: Chaika
+        breed: spaniel
+        isMeows: false
+      - name: Mishka
+        breed: 'simple cat'
+        isMeows: true
+  props: []
