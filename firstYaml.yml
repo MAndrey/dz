@@ -2,6 +2,7 @@ user:
   isAdmin: true
   name: MAndrei
   age: 45
+  position: administrator
   placeOfResidence:
       country: RU
       city: SPB
@@ -10,11 +11,11 @@ user:
       apartmentNumber: 3
   skills:
       - name: programming
-        level: fullstack
+        level: 5
         description: |
           Java,javascript,SQL
       - name: administrator
-        level: anykey
+        level: 5
         description: |
           windows,linux
   pets:
